@@ -11,3 +11,5 @@
 10 Total recursion. The next generation is created, all at once, based on the previous generation
 11 Every cell interacts with the 8 other cells that are around it.
 12 Each generation functions from the previuos generation.
+13 A program that keeps track of which areas are active son it saves time by not updating in inactive zones.
+14 If all 9 fields equals 3 the inner field for the next generation is life.
