@@ -13,3 +13,4 @@
 12 Each generation functions from the previuos generation.
 13 A program that keeps track of which areas are active son it saves time by not updating in inactive zones.
 14 If all 9 fields equals 3 the inner field for the next generation is life.
+15 One line buffer is used to calulate the successor for a line then the second buffer is used to calculate the successor state for the line after.
